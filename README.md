@@ -1,4 +1,4 @@
-👋 Hi, I’m Awusa Collins Ekene
+👋 Hi, I’m Awusa Collins Ekene.
 I'm a web developer. 
 
 <!---
