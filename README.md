@@ -1,8 +1,15 @@
----------------#####ABOUT ME----------------
+######
+______________________ **ABOUT ME** _______________________
 
-👋 Hi, I’m Awusa Collins Ekene.
+* My name is Awusa Collins
 
-I'm a web developer. 
+* A web Developer. I believe I can learn anything I want.
+* I prioritze Hardwork
+
+______________________ **MY STACK** _______________________
+* Python
+* Django
+* Postgresql
 
 
 <!---
