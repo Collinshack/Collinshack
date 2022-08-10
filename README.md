@@ -4,7 +4,7 @@ ______________________ **ABOUT ME** _______________________
 * My name is Awusa Collins
 
 * A web Developer. I believe I can learn anything I want.
-* I prioritze Hardwork
+* I prioritze Hardwork and Team Collaboration
 
 ______________________ **MY STACK** _______________________
 * Python
