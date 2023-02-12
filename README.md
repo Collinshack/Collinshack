@@ -1,15 +1,16 @@
 ######
 ______________________ **ABOUT ME** _______________________
 
-* My name is Awusa Collins
+* My name is Collins Awusa
 
-* A web Developer. I believe I can learn anything I want.
-* I prioritze Hardwork and Team Collaboration
+* A Backend Developer
+* Machine Learning & Data Science 
 
 ______________________ **MY STACK** _______________________
 * Python
 * Django
 * Postgresql
+* Pandas
 
 
 <!---
