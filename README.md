@@ -3,7 +3,7 @@ ______________________ **ABOUT ME** _______________________
 
 * My name is Collins Awusa
 
-* A Backend Developer
+* A Web Scraper
 * Machine Learning & Data Science 
 
 ______________________ **MY STACK** _______________________
@@ -11,6 +11,8 @@ ______________________ **MY STACK** _______________________
 * Django
 * Postgresql
 * Pandas
+* Numpy
+* BeautifulSoup, Selenium
 
 
 <!---
