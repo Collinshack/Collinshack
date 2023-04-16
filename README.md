@@ -3,7 +3,7 @@ ______________________ **ABOUT ME** _______________________
 
 * My name is Collins Awusa
 
-* A Web Scraper
+* A Web Scraping & Automation
 * Machine Learning & Data Science 
 
 ______________________ **MY STACK** _______________________
@@ -12,7 +12,8 @@ ______________________ **MY STACK** _______________________
 * Postgresql
 * Pandas
 * Numpy
-* BeautifulSoup, Selenium
+* BeautifulSoup, Selenium & Scrapy
+* OpenAI
 
 
 <!---
