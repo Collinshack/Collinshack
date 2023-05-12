@@ -3,6 +3,7 @@ ______________________ **ABOUT ME** _______________________
 
 * My name is Collins Awusa
 
+* Backend Engineer 
 * A Web Scraping & Automation
 * Machine Learning & Data Science 
 
