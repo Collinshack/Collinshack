@@ -10,6 +10,7 @@ ______________________ **ABOUT ME** _______________________
 ______________________ **MY STACK** _______________________
 * Python
 * Django
+* Django Rest Framework
 * Postgresql
 * Pandas
 * Numpy
