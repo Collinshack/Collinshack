@@ -17,6 +17,9 @@ ______________________ **MY STACK** _______________________
 * BeautifulSoup, Selenium & Scrapy
 * OpenAI
 
+______________________ **LET'S CONNECT** _______________________
+* https://collinsawusa.com 
+* https://www.instagram.com/awusacollins/
 
 <!---
 Collinshack/Collinshack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
