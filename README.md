@@ -4,8 +4,6 @@ ______________________ **ABOUT ME** _______________________
 * My name is Collins Awusa
 
 * Backend Engineer specializing in building SaaS applications
-* A Web Scraping & Automation
-
 
 ______________________ **MY STACK** _______________________
 * Python
