@@ -9,11 +9,8 @@ ______________________ **ABOUT ME** _______________________
 
 ______________________ **MY STACK** _______________________
 * Python
-* Django
-* Django Rest Framework
-* Postgresql
-* Pandas
-* Numpy
+* Django, DRF
+* HTML/CSS, Bootstrap,HTMX
 * BeautifulSoup, Selenium & Scrapy
 * OpenAI, Google Bard
 
