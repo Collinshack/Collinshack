@@ -3,9 +3,9 @@ ______________________ **ABOUT ME** _______________________
 
 * My name is Collins Awusa
 
-* Backend Engineer 
+* Backend Engineer specializing in building SaaS applications
 * A Web Scraping & Automation
-* Machine Learning & Data Science 
+
 
 ______________________ **MY STACK** _______________________
 * Python
@@ -15,7 +15,7 @@ ______________________ **MY STACK** _______________________
 * Pandas
 * Numpy
 * BeautifulSoup, Selenium & Scrapy
-* OpenAI
+* OpenAI, Google Bard
 
 ______________________ **LET'S CONNECT** _______________________
 * https://collinsawusa.com 
