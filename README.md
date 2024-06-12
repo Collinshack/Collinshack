@@ -12,7 +12,7 @@ Hello, I'm **Collins Awusa**! I'm a Backend Engineer with a passion for building
 Feel free to reach out or follow my journey through the links below:
 - **Website:** [collinsawusa.com](https://collinsawusa.com)
 - **Instagram:** [awusacollins](https://www.instagram.com/awusacollins/)
-- **YouTube:** [Collins Awusa's Tech Talks](https://www.youtube.com/channel/UCiP75w8Ci4b0dmVQ5iVBtVA)
+- **YouTube:** [Collins Awusa](https://www.youtube.com/@awusacollins)
 
 <!---
 Collinshack/Collinshack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
