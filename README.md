@@ -1,5 +1,5 @@
 # About Me
-Hello, I'm **Collins Awusa** I'm a Backend Engineer with a passion for building robust SaaS applications. 
+Hello, I'm **Collins Awusa** I'm a Software Engineer & AI Strategist & Writer with a passion for building robust SaaS applications. 
 
 ## My Stack
 - **Programming Languages:** Python
