@@ -2,7 +2,7 @@
 Hello, I'm **Collins Awusa** I'm a Software Engineer & AI Strategist & Writer with a passion for building robust SaaS applications. 
 
 ## My Stack
-- **Programming Languages:** Python
+- **Programming Languages:** Python, Basic JS
 - **Frameworks:** Django, Django REST Framework (DRF)
 - **Frontend:** HTML, CSS, Bootstrap, HTMX
 - **Web Scraping & Automation:** BeautifulSoup, Selenium, Scrapy
