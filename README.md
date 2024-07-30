@@ -2,7 +2,7 @@
 Hello, I'm **Collins Awusa** I'm a Software Engineer & AI Strategist & Writer with a passion for building robust SaaS applications that solve pressing business needs. 
 
 ## My Stack
-- **Programming Languages:** Python,JS
+- **Programming Languages:** Python, JS
 - **AI:** OpenAI, Gemini, Claude, Groq
 
 ## Let's Connect
