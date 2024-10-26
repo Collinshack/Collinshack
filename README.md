@@ -1,9 +1,9 @@
 # About Me
 Hello, I'm **Collins Awusa** I'm a Software Engineer & AI Strategist & Writer with a passion for building robust SaaS applications that solve pressing business needs. 
 
-## My Stack
-- **Programming Languages:** Python, JS
-- **AI:** OpenAI, Gemini, Claude, Groq
+## My Projects
+- **ZeroFluffs AI:** Get high-quality content at scale at https://zerofluffs.com
+
 
 ## Let's Connect
 Feel free to reach out or follow my journey through the links below:
