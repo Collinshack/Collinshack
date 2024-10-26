@@ -1,8 +1,9 @@
 # About Me
-Hello, I'm **Collins Awusa** I'm a Software Engineer & AI Strategist & Writer with a passion for building robust SaaS applications that solve pressing business needs. 
+Hello, I'm **Collins Awusa** I'm a Software Engineer & AI Strategist & Writer with a passion for building SaaS products and AI tools that solve pressing business needs. 
 
 ## My Projects
-- **ZeroFluffs AI:** Get high-quality content at scale at https://zerofluffs.com
+- **ZeroFluffs AI:** Get high-quality content at scale @ https://zerofluffs.com
+- **Hustle With AI:** Read interesting highlights around AI, SaaS and automations @ https://hustlewithai.com
 
 
 ## Let's Connect
