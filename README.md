@@ -1,6 +1,5 @@
 # About Me
-Hello, I'm **Collins Awusa** I'm a Software Engineer & AI Strategist & Writer with a passion for building SaaS products and AI tools that solve pressing business needs. 
-
+Hello, I'm **Collins Awusa** I'm a Software Engineer & AI Strategist.
 ## My Projects
 - **My latest project:** The #1 Free Tools Collection on the Internet @ https://fullyfreetools.com
 - **ZeroFluffs AI:** Get high-quality content at scale @ https://zerofluffs.com
