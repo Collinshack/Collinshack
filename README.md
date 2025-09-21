@@ -1,6 +1,6 @@
 # About Me
 Hello, I'm **Collins Awusa** I'm a Software Developer & AI Specialist.
-## My Projects
+## Things I've worked on:
 - **My latest project:** The #1 job board for overnight jobs and night shifts hiring now anywhere in the world. @ [Overnight Jobs HQ](https://overnightjobshq.com/)
 - [**Fullyfreetools:**](https://fullyfreetools.com) The #1 Free Tools Collection on the Internet 
 - [**Scholadex:**]( https://scholadex.com ) A database of verified and ongoing scholarships around the world. [Under development]
