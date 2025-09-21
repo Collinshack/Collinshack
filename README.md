@@ -2,10 +2,10 @@
 Hello, I'm **Collins Awusa** I'm a Software Developer & AI Specialist.
 ## My Projects
 - **My latest project:** The #1 job board for overnight jobs and night shifts hiring now anywhere in the world. @ [Overnight Jobs HQ](https://overnightjobshq.com/)
-- **Fullyfreetools:** The #1 Free Tools Collection on the Internet @ https://fullyfreetools.com
-- **Scholadex:** A database of verified and ongoing scholarships around the world. @ https://scholadex.com [Under development]
-- **ZeroFluffs AI:** Get high-quality content at scale @ https://zerofluffs.com [Dead]
-- **Hustle With AI:** Read interesting highlights around AI, SaaS and automations @ https://hustlewithai.com [Dead]
+- [**Fullyfreetools:**](https://fullyfreetools.com) The #1 Free Tools Collection on the Internet 
+- [**Scholadex:**]( https://scholadex.com ) A database of verified and ongoing scholarships around the world. [Under development]
+- **ZeroFluffs AI:** Get high-quality content at scale @ [Zerofluffs AI](https://zerofluffs.com) [Dead]
+- **Hustle With AI:** Read interesting highlights around AI, SaaS and automations @ [Hustle With AI](https://hustlewithai.com) [Dead]
 
 
 ## Let's Connect
